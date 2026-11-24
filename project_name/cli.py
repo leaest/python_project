@@ -5,4 +5,4 @@ def main() -> None:
 
     This is your program's entry point.
     """
-    print("Do something!")
+    print("Do something else!")
