@@ -6,3 +6,4 @@ def main() -> None:
     This is your program's entry point.
     """
     print("Do something else!")
+    print("This is a test for the branch!")
